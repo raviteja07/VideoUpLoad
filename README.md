@@ -11,8 +11,6 @@ package, Run As->Java Application
 
 To stop the application:
 
-Open the Eclipse Debug Perspective (Window->Open Perspective->Debug), right-click on
-the application in the "Debug" view (if it isn't open, Window->Show View->Debug) and
 select Terminate
 
 ## Overview
