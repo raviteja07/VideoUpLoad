@@ -11,7 +11,7 @@ package, Run As->Java Application
 
 To stop the application:
 
-select Terminate
+select Terminate from console
 
 ## Overview
 
